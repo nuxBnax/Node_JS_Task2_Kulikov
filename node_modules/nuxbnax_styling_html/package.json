@@ -1,0 +1,19 @@
+{
+  "name": "nuxbnax_styling_html",
+  "version": "1.0.4",
+  "description": "Module for styling html elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuxBnax/Node_JS_HTML_style.git"
+  },
+  "author": "nuxBnax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuxBnax/Node_JS_HTML_style/issues"
+  },
+  "homepage": "https://github.com/nuxBnax/Node_JS_HTML_style#readme"
+}
